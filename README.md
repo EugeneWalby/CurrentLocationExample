@@ -1,4 +1,4 @@
-#CurrentLocationExample
+# CurrentLocationExample
 
 Used technologies: Android, Java, LocationManager.
 
